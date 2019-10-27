@@ -10,6 +10,6 @@ I have tried to solve the problem by using genetic algorithms.
 
 ### Running the code
 
-1. Set target_string. <br>
-2. Set mutation rate and initial population size as per your need. <br>
+1. Set variable 'target_string' <br>
+2. Set mutation rate and initial population size <br>
 3. run><br> ```python ga.py```
