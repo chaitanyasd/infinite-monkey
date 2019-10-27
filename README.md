@@ -9,6 +9,7 @@ Check this for more information - https://en.wikipedia.org/wiki/Infinite_monkey_
 I have tried to solve the problem by using genetic algorithms.
 
 ### Running the code
-Set target_string. <br>
-Set mutation rate and initial population size as per your need. <br>
-run><br> python ga.py
+
+1. Set target_string. <br>
+2. Set mutation rate and initial population size as per your need. <br>
+3. run><br> ```python ga.py```
