@@ -1,4 +1,4 @@
-# infinite-monkey
+# infinite-monkey :monkey:
 Genetic algorithm for the infnite monkey problem
 
 ## What is Infinite Monkey problem?
